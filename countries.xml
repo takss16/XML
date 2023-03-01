@@ -34,7 +34,109 @@
       </time-zone>
     </country>
     <country>
-    
+      <name>Japan</name>
+      <population>126,050,000</population>
+      <geography>
+        <area>377,915 sq km</area>
+        <bordering-countries>
+          <country>None</country>
+        </bordering-countries>
+        <natural-resources>
+          <resource>fish</resource>
+          <resource>timber</resource>
+          <resource>small deposits of coal</resource>
+        </natural-resources>
+      </geography>
+      <government>
+        <type>unitary parliamentary constitutional monarchy</type>
+        <head-of-state>Emperor Naruhito</head-of-state>
+        <legislature>Diet of Japan</legislature>
+      </government>
+      <language>Japanese</language>
+      <currency>yen</currency>
+      <time-zone>
+        <standard>
+          <name>Japan Standard Time</name>
+          <offset>+9</offset>
+        </standard>
+      </time-zone>
+    </country>
+    <country>
+      <name>Canada</name>
+      <population>38,048,738</population>
+      <geography>
+        <area>9,984,670 sq km</area>
+        <bordering-countries>
+          <country>United States</country>
+        </bordering-countries>
+        <natural-resources>
+          <resource>fish</resource>
+          <resource>timber</resource>
+          <resource>minerals</resource>
+        </natural-resources>
+      </geography>
+      <government>
+        <type>federal parliamentary constitutional monarchy</type>
+        <head-of-state>Queen Elizabeth II</head-of-state>
+        <legislature>Parliament of Canada</legislature>
+      </government>
+      <language>English, French</language>
+      <currency>Canadian dollar</currency>
+      <time-zone>
+        <standard>
+          <name>Eastern Standard Time</name>
+          <offset>-5</offset>
+        </standard>
+        <daylight-saving>
+          <name>Eastern Daylight Time</name>
+          <offset>-4</offset>
+        </daylight-saving>
+      </time-zone>
+    </country>
+    <country>
+      <name>Brazil</name>
+      <population>213,993,437</population>
+      <geography><root>
+  <countries
+    <country>
+      <name>Brazil</name>
+      <population>214,132,029</population>
+      <geography>
+        <area>8,515,767 sq km</area>
+        <bordering-countries>
+          <country>Argentina</country>
+          <country>Bolivia</country>
+          <country>Colombia</country>
+          <country>Guyana</country>
+          <country>Paraguay</country>
+          <country>Peru</country>
+          <country>Suriname</country>
+          <country>Uruguay</country>
+          <country>Venezuela</country>
+        </bordering-countries>
+        <natural-resources>
+          <resource>iron ore</resource>
+          <resource>bauxite</resource>
+          <resource>gold</resource>
+          <resource>soybeans</resource>
+          <resource>coffee</resource>
+        </natural-resources>
+      </geography>
+      <government>
+        <type>federal presidential constitutional republic</type>
+        <head-of-state>President Jair Bolsonaro</head-of-state>
+        <legislature>National Congress of Brazil</legislature>
+      </government>
+      <language>Portuguese</language>
+      <currency>Brazilian real</currency>
+      <time-zone>
+        <standard>
+          <name>Brasília Standard Time</name>
+          <offset>-3</offset>
+        </standard>
+      </time-zone>
+    </country>
+  
     </country>
   </countries>
 </root>
