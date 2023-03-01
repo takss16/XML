@@ -1,0 +1,40 @@
+<root>
+  <countries>
+    <country>
+      <name>United States</name>
+      <population>331,449,281</population>
+      <geography>
+        <area>9,826,630 sq km</area>
+        <bordering-countries>
+          <country>Canada</country>
+          <country>Mexico</country>
+        </bordering-countries>
+        <natural-resources>
+          <resource>coal</resource>
+          <resource>petroleum</resource>
+          <resource>natural gas</resource>
+        </natural-resources>
+      </geography>
+      <government>
+        <type>federal presidential constitutional republic</type>
+        <head-of-state>President Joe Biden</head-of-state>
+        <legislature>United States Congress</legislature>
+      </government>
+      <language>English</language>
+      <currency>US dollar</currency>
+      <time-zone>
+        <standard>
+          <name>Eastern Standard Time</name>
+          <offset>-5</offset>
+        </standard>
+        <daylight-saving>
+          <name>Eastern Daylight Time</name>
+          <offset>-4</offset>
+        </daylight-saving>
+      </time-zone>
+    </country>
+    <country>
+    
+    </country>
+  </countries>
+</root>
